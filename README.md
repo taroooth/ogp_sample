@@ -8,7 +8,7 @@ App to generate url with OGP image.
 2. Connect to Firebase
 3. Setting Dynamic Links in Firebase
 4. Setting Storage in Firebase
-5. Fix file [main.dart](lib/main.dart), line 170
+5. Fix file [main.dart](lib/main.dart#L170)
 
 `uriPrefix: 'https://hoge.page.link'` -> `uriPrefix: '${YOUR_DYNAMIC_LINKS_PREFIX}'`
 
